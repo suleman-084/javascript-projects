@@ -1,0 +1,40 @@
+#container {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #153677, #4e085f);
+  padding: 10px;
+}
+#todo-app {
+  width: 100%;
+  max-width: 540px;
+  background: #fff;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
+  border-radius: 10px;
+}
+
+#todo-app h1 {
+  margin-top: -2rem;
+  padding-bottom: 4rem;
+}
+#input {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+
+  margin-top: -4rem;
+  padding-bottom: 4rem;
+}
+#input-box {
+  /* border: none; */
+  border-radius: 10px;
+}
+button {
+  border-radius: 10px;
+}
+ul li span {
+  margin-left: 20rem;
+}
+ul li span :hover {
+  cursor: pointer;
+}

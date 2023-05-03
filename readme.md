@@ -22,4 +22,4 @@
 
 Overall, building a simple todo app using HTML, CSS, and JavaScript is a great way to get started with front-end web development and learn some essential skills that you can build upon as you progress further. Good job!
 
-## [Live-link](https://shopify-clone-02.netlify.app/) of the project
+## [Live-link](https://to-do-list-js-html.netlify.app/) of the project
